@@ -1,0 +1,19 @@
+{
+  "name": "helloworld-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "我的第一个 AI 开发的 HelloWorld 网站（Node.js + Vercel）",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "helloworld",
+    "vercel"
+  ],
+  "license": "MIT"
+}

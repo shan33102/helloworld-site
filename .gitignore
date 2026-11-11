@@ -1,0 +1,20 @@
+# 依赖目录（本项目没有第三方依赖，但保留规则以防以后安装）
+node_modules/
+
+# Vercel 本地调试生成的目录
+.vercel/
+
+# 环境变量文件（可能含密钥，绝对不要上传）
+.env
+.env.local
+.env.*.local
+
+# 日志
+*.log
+npm-debug.log*
+
+# 系统 / 编辑器缓存
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
